@@ -1,0 +1,6 @@
+/out/
+/*.vhd
+/*.v
+/*.log
+/simWorkspace/
+/tmp/
